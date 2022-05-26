@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/saveBtn"
+        android:title=""
+        app:showAsAction="always"
+        android:icon="@drawable/savebtn"
+        />
+    <item
+        android:id="@+id/shareBtn"
+        android:title=""
+        app:showAsAction="ifRoom"
+        android:icon="@drawable/sharebtn"
+
+        />
+</menu>
